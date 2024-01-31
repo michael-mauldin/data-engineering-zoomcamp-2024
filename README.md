@@ -4,7 +4,7 @@ This repository contains notes and code for the 2024 DataTalksClub Data Engineer
 The course is organized into modules:
 | Module                          | Start            | Homework due     | Duration  |
 |---------------------------------|------------------|------------------|-----------|
-| 1. Introduction & Prerequisites |  15 January 2024 |  25 January 2024 | 2 weeks   |
+| [1. Introduction & Prerequisites](./module_1/) |  15 January 2024 |  25 January 2024 | 2 weeks   |
 | 2. Workflow Orchestration       |  29 January 2024 | 05 February 2024 | 1 week    |
 | 3. Data Warehouse               | 05 February 2024 | 12 February 2024 | 1 week    |
 | 4. Analytics Engineering        | 12 February 2024 | 22 February 2024 | 1 week    |
@@ -19,4 +19,4 @@ Each module folder contains two folders:
 1. *Notes* contains lecture notes, code, and datasets from the video lectures.
 2. *Homework* contains code, datasets, and answers to the homework sets.
 
-I am taking notes in Jupyter notebooks and then publishing them to a [Github Pages site]() using [Quarto]().
+FYI I am taking notes in Jupyter notebooks and then publishing them to a [Github Pages site](https://michael-mauldin.github.io/data-engineering-zoomcamp-2024/) using [Quarto](https://quarto.org).
