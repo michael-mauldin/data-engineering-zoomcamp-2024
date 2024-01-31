@@ -74,6 +74,11 @@ Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in 
 - 15859
 - 89009
 
+### Answer:
+```
+15612
+```
+
 ## Question 4. Longest trip for each day
 
 Which was the pick up day with the longest trip distance?
@@ -86,6 +91,10 @@ Tip: For every trip on a single day, we only care about the trip with the longes
 - 2019-09-26
 - 2019-09-21
 
+### Answer:
+```
+2019-09-26
+```
 
 ## Question 5. Three biggest pick up Boroughs
 
@@ -98,6 +107,10 @@ Which were the 3 pick up Boroughs that had a sum of total_amount superior to 500
 - "Bronx" "Manhattan" "Queens" 
 - "Brooklyn" "Queens" "Staten Island"
 
+### Answer:
+```
+"Brooklyn" "Manhattan" "Queens"
+```
 
 ## Question 6. Largest tip
 
@@ -111,7 +124,10 @@ Note: it's not a typo, it's `tip` , not `trip`
 - JFK Airport
 - Long Island City/Queens Plaza
 
-
+### Answer:
+```
+JFK Airport
+```
 
 ## Terraform
 
