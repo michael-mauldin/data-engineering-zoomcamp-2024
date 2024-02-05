@@ -5,7 +5,7 @@ The course is organized into modules:
 | Module                          | Start            | Homework due     | Duration  |
 |---------------------------------|------------------|------------------|-----------|
 | [1. Introduction & Prerequisites](./module_1/) |  15 January 2024 |  25 January 2024 | 2 weeks   |
-| 2. Workflow Orchestration       |  29 January 2024 | 05 February 2024 | 1 week    |
+| [2. Workflow Orchestration](./module_2/)       |  29 January 2024 | 05 February 2024 | 1 week    |
 | 3. Data Warehouse               | 05 February 2024 | 12 February 2024 | 1 week    |
 | 4. Analytics Engineering        | 12 February 2024 | 22 February 2024 | 1 week    |
 | 5. Batch processing             | 22 February 2024 |    03 March 2024 | 1.5 weeks |
