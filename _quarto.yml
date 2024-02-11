@@ -1,8 +1,12 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "DTC 2024 DE Zoomcamp"
 
-execute: 
-  freeze: auto
+format:
+  html:
+    theme: none
+    css: custom.css
+
