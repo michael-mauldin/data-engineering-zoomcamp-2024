@@ -8,6 +8,7 @@ sources:
     tables:
       - name: ny_green_taxi_2019_2020
       - name: ny_yellow_taxi_2019_2020
+      - name: ny_fhv_taxi_2019_partitioned
 
 models:
     - name: stg_green_tripdata
